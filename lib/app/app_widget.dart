@@ -7,6 +7,6 @@ class AppWidget extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Slidy',
       theme: ThemeData(primarySwatch: Colors.blue),
-    ).modular();
+    );
   }
 }
